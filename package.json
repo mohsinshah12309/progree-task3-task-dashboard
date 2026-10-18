@@ -1,0 +1,23 @@
+{
+  "name": "progree-task3-task-dashboard",
+  "version": "1.0.0",
+  "description": "Task 3: Interactive Dynamic Task Dashboard Platform with Node.js/Express and SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "fullstack",
+    "crud",
+    "express",
+    "sqlite",
+    "dashboard"
+  ],
+  "author": "Mohsin Ali Shah",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
